@@ -1,2 +1,4 @@
 This is the new file created with new branch.
 This changes directly made by other developer
+This is the third line added from feature
+this is the last line.
