@@ -1,1 +1,2 @@
 This is the new file created with new branch.
+This changes directly made by other developer
